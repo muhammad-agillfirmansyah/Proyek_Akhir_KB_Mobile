@@ -37,3 +37,8 @@
   4. Jalankan Aplikasi Mobile:
   Setelah server aktif dan IP sudah diatur di controller.dart, jalankan aplikasi mobile pada HP Anda.
   Aplikasi kini dapat terhubung ke server Django melalui jaringan lokal.
+
+
+
+Link Drive:
+https://drive.google.com/drive/folders/1QR8trSTMXvEuwpjhGy9ZlUBCEAMyZLA4?usp=sharing
