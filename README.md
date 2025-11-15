@@ -6,7 +6,17 @@
   Selain fitur deteksi, aplikasi ini juga menyediakan halaman khusus berisi informasi lengkap mengenai penyakit daun singkong. Pada halaman ini, pengguna dapat mempelajari gejala penyakit, penyebab, dampak, serta pencegahannya. Dengan kombinasi deteksi otomatis dan informasi edukatif, aplikasi ini dirancang untuk membantu pengguna memantau kesehatan tanaman singkong secara cepat, akurat, dan mudah.
 
 2.) Cara Menggunakan Aplikasi
+  Cara Penggunaan Aplikasi
+  Saat aplikasi dibuka, pengguna akan disambut dengan tampilan awal beserta tombol “Mulai”. Setelah tombol tersebut ditekan, pengguna akan diarahkan ke halaman utama yang berisi dua pilihan menu, yaitu Informasi Penyakit Daun Singkong dan Cek Daun Singkong.
   
+  1. Informasi Penyakit Daun Singkong
+  Jika pengguna memilih menu informasi, aplikasi akan menampilkan halaman lanjutan yang berisi pilihan jenis penyakit, yaitu:
+  -Hawar Bakteri Daun Singkong
+  -Penyakit Mosaik Daun Singkong
+  Setelah memilih salah satu penyakit, pengguna akan masuk ke halaman detail informasi yang mencakup penyebab, gejala, dampak, dan cara pencegahannya. Bagian ini dirancang untuk memberikan penjelasan yang mudah dipahami agar pengguna dapat mengenali ciri-ciri penyakit secara mandiri.
+  
+  2. Cek Daun Singkong
+  Jika pengguna memilih menu cek daun, aplikasi menyediakan opsi untuk mengunggah atau mengambil foto langsung dari daun singkong. Setelah gambar dipilih, pengguna dapat menekan tombol “Hasil Analisis”. Aplikasi akan memproses gambar tersebut dan menampilkan hasil deteksi, apakah daun singkong dalam keadaan sehat atau mengalami salah satu dari dua penyakit yang didukung oleh sistem.
 
 3.) Cara Menjalankan Server
   langkah-langkah berikut untuk menjalankan server Django dan menghubungkannya dengan aplikasi mobile:
