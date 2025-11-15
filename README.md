@@ -41,4 +41,4 @@
 
 
 Link Drive:
-https://drive.google.com/drive/folders/1QR8trSTMXvEuwpjhGy9ZlUBCEAMyZLA4?usp=sharing
+https://drive.google.com/file/d/1qvRDJyQ_Yr_WnVgpn_FGP2wSbRj0Foas/view?usp=sharing
